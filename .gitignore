@@ -1,0 +1,5 @@
+# MySQL Files
+docker/mysql/data
+
+# Redis Data
+docker/redis/data
